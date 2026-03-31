@@ -18,4 +18,5 @@ Website
 185.199.108.153
 185.199.109.153
 185.199.110.153
-185.199.111.153
+185.199.111.153⚠️ CRITICAL: Before uploading, rename your homepage to exactly `index.html` 
+(not home.html or index.htm). Bluehost serves index.html automatically.
