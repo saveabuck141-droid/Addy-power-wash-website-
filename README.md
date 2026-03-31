@@ -1,21 +1,45 @@
-# Addy-power-wash-website-
-Website 
-<section style="background: white; padding: 60px 20px; text-align: center; border-top: 1px solid #ddd;">
-    <div style="max-width: 800px; margin: 0 auto;">
-        <h2 style="color: #1A3A5F; font-size: 2.5rem; margin-bottom: 20px;">Proudly Serving the Utica Community</h2>
-        <p style="font-size: 1.2rem; line-height: 1.8; color: #555;">
-            At <strong>Addie’s Mobile Power Wash & More</strong>, we believe that a clean exterior is the first step to a proud home or business. Born and raised right here in <strong>Utica, NY</strong>, we understand the toll our local weather can take on your property—from harsh winters to humid summers.
-        </p>
-        <p style="font-size: 1.2rem; line-height: 1.8; color: #555; margin-top: 20px;">
-            As a local, family-owned business, we don’t just "wash and go." We treat every driveway, siding, and storefront as if it were our own. Whether you're in South Utica, Deerfield, or New Hartford, our mission is to provide professional-grade cleaning with the personal touch only a neighbor can provide.
-        </p>
-        <div style="margin-top: 30px;">
-            <span style="display: inline-block; background: #3BAFFB; height: 3px; width: 60px; margin-bottom: 10px;"></span>
-            <p style="font-style: italic; color: #3BAFFB; font-weight: bold;">Fully Insured • Reliable • Local</p>
-        </div>
-    </div>
-</section>
-185.199.108.153
-185.199.109.153
-185.199.110.153
-185.199.111.153
+# 🌊 Addy Power Wash 
+**Professional Exterior Cleaning Services**
+
+Welcome to the official repository for the Addy Power Wash website. This is a high-performance, mobile-responsive static site built to showcase professional cleaning services.
+
+## 🚀 Live Demo
+You can view the live website here:
+**[View Addy Power Wash Live](https://saveabuck141-droid.github.io/Addy-power-wash-website-/)**
+
+---
+
+## 🛠️ Core Website Structure
+Here is a look at the foundational HTML structure used for this business site:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addy Power Wash | Professional Cleaning</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Addy Power Wash</h1>
+        <p>Making your property shine like new.</p>
+        <a href="tel:YOUR-PHONE-NUMBER" class="cta-button">Call for a Free Quote</a>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Driveway & Sidewalk Cleaning</li>
+            <li>House Washing (Soft Wash)</li>
+            <li>Deck & Fence Restoration</li>
+            <li>Roof Cleaning</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Addy Power Wash. All rights reserved.</p>
+    </footer>
+</body>
+</html>
